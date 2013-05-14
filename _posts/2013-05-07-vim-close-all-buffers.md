@@ -3,7 +3,7 @@ layout: post
 title: "vim close all buffers"
 description: ""
 category: 
-tags: []
+tags: [vim]
 ---
 {% include JB/setup %}
 

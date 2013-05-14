@@ -3,7 +3,7 @@ layout: post
 title: "git rewrite history"
 description: ""
 category: 
-tags: []
+tags: [git]
 ---
 {% include JB/setup %}
 
