@@ -10,10 +10,12 @@ tags: [git]
 From stackoverflow,
 
 `git commit --amend -m "message"`
+
 `git push --force`
 
 Anyone already pulled needs to do
 
 `git fetch origin`
+
 `git reset --hard origin/master # Loses local commits`
 
