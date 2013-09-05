@@ -19,3 +19,4 @@ Anyone already pulled needs to do
 
 `git reset --hard origin/master # Loses local commits`
 
+
